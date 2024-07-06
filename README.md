@@ -6,7 +6,7 @@ The message or *DataEnvelope* that is pushed to the message-broker looks somethi
 <pre>
 {
   "data" {
-    //message
+    //message body
   },
   "retryPolicy": {
     "retryCount": 0,
